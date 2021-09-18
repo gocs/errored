@@ -1,5 +1,7 @@
 # errored
 
+![lint go code](https://github.com/gocs/errored/actions/workflows/lint.yml/badge.svg)
+
 declare constant errors
 
 ## philosophy
