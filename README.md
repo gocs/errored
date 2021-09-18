@@ -9,7 +9,7 @@ When an error is created, it is usually never get edited, is just string, and is
 ## installation
 
 ```
-go get github.com/pkg/errors
+go get github.com/gocs/errored
 ```
 
 ## how to use
