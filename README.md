@@ -1,5 +1,6 @@
 # errored
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/gocs/errored.svg)](https://pkg.go.dev/github.com/gocs/errored)
 ![lint go code](https://github.com/gocs/errored/actions/workflows/lint.yml/badge.svg)
 
 declare constant errors
